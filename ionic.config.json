@@ -1,0 +1,7 @@
+{
+  "name": "CoursIonicENI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
